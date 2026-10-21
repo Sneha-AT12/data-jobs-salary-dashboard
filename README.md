@@ -32,7 +32,7 @@
 
 <h1 id="overview">🔎 Overview</h1>
 
-<h3>Welcome to my Data Science Salary Dashboard.</h3>
+<h3>Welcome to my Data Jobs Salary Dashboard.</h3>
 
 <p>
 This project turns a large table of job postings into a simple, interactive dashboard.
